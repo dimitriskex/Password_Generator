@@ -14,7 +14,7 @@ A simple and customizable password generator written in Python. Users can choose
 
 ---
 
-## **5️⃣ Code Explanation **
+## 5️⃣ Code Explanation 
 If you want to provide an overview of the code logic, you can describe the main functions.
 
 Example:
