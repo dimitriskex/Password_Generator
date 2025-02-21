@@ -10,24 +10,11 @@ A simple and customizable password generator written in Python. Users can choose
 ✅ Colored output using `colorama`
 
 
-## Usage
-
-1. Run the script:
-   ```sh
-   python generator.py
-
-📌 Do you want to use upper case letters? (y/n): y
-📌 Do you want to use lower case letters? (y/n): y
-📌 Do you want to use digits? (y/n): y
-📌 Do you want to use punctuations? (y/n): n
-
-🔑 Your password: G8hTpQzXw5
-
 
 
 ---
 
-## **5️⃣ Code Explanation (Optional)**
+## **5️⃣ Code Explanation **
 If you want to provide an overview of the code logic, you can describe the main functions.
 
 Example:
@@ -37,6 +24,14 @@ Example:
   - Takes user input and builds a secure password.
   - Uses `secrets.choice()` for strong randomness.
   - Allows customization of character types.
+
+📌 Do you want to use upper case letters? (y/n): y
+📌 Do you want to use lower case letters? (y/n): y
+📌 Do you want to use digits? (y/n): y
+📌 Do you want to use punctuations? (y/n): n
+
+🔑 Your password: G8hTpQzXw5
+
 
 
 
